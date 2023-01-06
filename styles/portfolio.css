@@ -29,7 +29,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 230px;
+    padding: 50px 230px;
 }
 .nav-title{
     font-weight: 800;
@@ -200,4 +200,8 @@ input{
 
 .contact a{
     text-decoration: none;
+}
+.contact .section-description{
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
